@@ -1,6 +1,7 @@
 package uitests;
 
 import org.junit.jupiter.api.Test;
+import org.openqa.selenium.By;
 import uitests.Specifications.BaseSeleniumTest;
 
 import static uitests.Locators.HomePageLocator.*;
@@ -65,4 +66,5 @@ public class HomePageTest extends BaseSeleniumTest {
         homePage.clickFooterLink(sitesOfRussia);
         homePageValidator.validateSitesOfRussia();
     }
+
 }
