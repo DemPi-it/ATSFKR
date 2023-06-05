@@ -6,7 +6,6 @@ import uitests.Specifications.BaseSeleniumTest;
 import static uitests.Locators.HomePageLocator.*;
 
 public class HomePageTest extends BaseSeleniumTest {
-
     @Test // TC001
     public void logoRedirectionTest(){
         homePage.clickLogo(logoXpath);
