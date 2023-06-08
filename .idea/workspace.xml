@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb7a8e1d-c91b-4556-a95c-742e191e834d" name="Changes" comment="adding specifications for Rest Assured API-tests">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="bb7a8e1d-c91b-4556-a95c-742e191e834d" name="Changes" comment="finishing testing system">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apitests/Autotests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apitests/Autotests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/uitests/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/uitests/HomePageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +36,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="23f34a75-b4ec-44e6-81fe-b6153243fcbf" />
+        <option name="url" value="https://github.com/DemPi-it/ATSFKR.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -208,12 +218,20 @@
       <option name="project" value="LOCAL" />
       <updated>1685977369621</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finishing testing system">
+      <created>1685992066973</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685992066973</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completing UI-tests to my Diploma project" />
     <MESSAGE value="adding specifications for Rest Assured API-tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding specifications for Rest Assured API-tests" />
+    <MESSAGE value="finishing testing system" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishing testing system" />
   </component>
 </project>
